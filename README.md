@@ -1,6 +1,6 @@
-## agregandoEstilos 
+## Agregando Estilos 
 
-### Mercado liebre pt2
+### MercadoLiebre pt2
 
 
 Segunda parte del proyecto MercadoLiebre. 
